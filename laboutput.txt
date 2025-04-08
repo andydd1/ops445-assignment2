@@ -1,0 +1,13 @@
+test_argparse_help (__main__.TestArgs)
+duim.py -h returns the required options ... ok
+test_dir_dict_func (__main__.TestDirDict)
+given mock du input, create_dir_dict returns properly formatted dict ... ok
+test_du_sub (__main__.TestDuSub)
+du_sub returns a list ... ok
+test_percent (__main__.TestPercent)
+percent_to_graph returns correct '##    ' format ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.079s
+
+OK
